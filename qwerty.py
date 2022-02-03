@@ -1,0 +1,4 @@
+q = input()
+w = input()
+
+  
